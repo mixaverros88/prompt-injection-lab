@@ -1,0 +1,9 @@
+[project]
+name = "week01"
+version = "0.1.0"
+description = "HR εικονικός chatbot (hr_bot.py)"
+requires-python = ">=3.10"
+dependencies = [
+    "litellm>=1.40.0",
+    "python-dotenv>=1.0.0",
+]
